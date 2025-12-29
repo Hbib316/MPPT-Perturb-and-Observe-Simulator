@@ -7,17 +7,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/MPPT-Perturb-and-Observe-Simulator.svg)](https://github.com/yourusername/MPPT-Perturb-and-Observe-Simulator/stargazers)
 
 ---
-
-## 📋 Table des matières
-- [Aperçu](#aperçu)
-- [Fonctionnalités](#fonctionnalités)
-- [Structure du projet](#structure-du-projet)
-- [Installation et utilisation](#installation-et-utilisation)
-- [Résultats et visualisation](#résultats-et-visualisation)
-- [Références](#références)
-- [Licence](#licence)
-- [Auteurs](#auteurs)
-
 ## 🎯 Aperçu
 
 Ce projet simule en temps réel le comportement d'un système photovoltaïque équipé d'un algorithme **Maximum Power Point Tracking (MPPT)** basé sur la méthode **Perturb & Observe (P&O)**. L'objectif est d'optimiser l'extraction de puissance d'un panneau solaire malgré les variations d'ensoleillement et de température.
@@ -38,4 +27,3 @@ Ce projet simule en temps réel le comportement d'un système photovoltaïque é
 - ✅ **Comparaison de méthodes** : Deux implémentations différentes de P&O incluses
 - ✅ **Interface claire** : Figures MATLAB annotées et tableaux de décision
 
-## 📁 Structure du projet
